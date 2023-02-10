@@ -1,7 +1,3 @@
-
-UnrealBluepint_Basic/Saved/*
-
-
 # Ignore all files by default, but scan all directories.
 *
 !*/
